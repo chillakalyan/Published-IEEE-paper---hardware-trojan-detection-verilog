@@ -21,7 +21,7 @@ IEEE
 - C. Kalyan Sai Kumar Reddy  
 - Sidde Rishitha
 
-## 🔗 IEEE Xplore Link
+## IEEE Xplore Link
 
 You can access the full paper here:
 
