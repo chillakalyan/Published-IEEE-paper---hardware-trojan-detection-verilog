@@ -77,6 +77,3 @@ The research methodology includes:
 
 ---
 
-## 📚 Citation
-
-If you use this research, please cite the original IEEE publication.
