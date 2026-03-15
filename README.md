@@ -75,5 +75,5 @@ The research methodology includes:
 - Secure FPGA and ASIC design
 - Supply chain trust in semiconductor manufacturing
 
----
+
 
