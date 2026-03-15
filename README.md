@@ -1,6 +1,5 @@
 # Hardware Trojan Detection and Localization in Verilog Designs
-
-📄 **IEEE Research Publication**
+ **IEEE Research Publication**
 
 This repository highlights the research work published in IEEE on **Hardware Trojan Detection and Localization in Verilog Designs for Renewable Systems**.
 
@@ -8,7 +7,7 @@ The work focuses on identifying malicious modifications (hardware trojans) in di
 
 ---
 
-## 📑 Paper Information
+## Paper Information
 
 **Title**
 
@@ -27,13 +26,13 @@ K. Brahma Muni Kailash
 C. Kalyan Sai Kumar Reddy  
 Sidde Rishitha  
 
-🔗 **IEEE Paper Link**
+ **IEEE Paper Link**
 
 https://ieeexplore.ieee.org/document/11416567
 
 ---
 
-## 🧠 Research Overview
+##  Research Overview
 
 Hardware trojans are malicious modifications inserted into integrated circuits during the design or fabrication phase. These trojans can compromise the security, functionality, and reliability of hardware systems.
 
@@ -46,7 +45,7 @@ This research focuses on:
 
 ---
 
-## 🏗 Methodology
+##  Methodology
 
 The research methodology includes:
 
@@ -58,7 +57,7 @@ The research methodology includes:
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 
 | Folder | Description |
 |------|-------------|
@@ -69,7 +68,7 @@ The research methodology includes:
 
 ---
 
-## 🔬 Applications
+##  Applications
 
 - Hardware security
 - Renewable energy systems
